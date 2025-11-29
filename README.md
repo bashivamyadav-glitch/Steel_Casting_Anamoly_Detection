@@ -1,3 +1,7 @@
 "# Steel_Casting_Anamoly_Detection" 
 
-TO get the Model run the model.py file on your system and save the model as casting_product_detection.keras then save that model to your project folder
+It is a steel surface anamoly detection technique used for dectecting anamolys in steel surface.
+Steps to run:
+1. run the html file
+2. add the photo of the stell plate in the image section
+
